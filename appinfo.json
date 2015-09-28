@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rcoqueugniot@gmail.com",
+    "longName": "androids",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "androids",
+    "uuid": "1ecf4504-4576-4416-85db-d7ddc7063f48",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
